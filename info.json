@@ -1,0 +1,11 @@
+{
+    "authors": [
+        {
+            "name": "Ian Goodale",
+            "affiliation": "The University of Texas at Austin",
+            "orcid": "0000-0002-6685-2949"
+        }
+    ],
+    "title": "Rozha: Supporting and Simplifying Multilingual Natural Language Processing",
+    "description": "Virtual poster on the Rozha NLP package for the SciPy 2023 conference."
+}
